@@ -1,0 +1,10 @@
+user->browser: writing text into textfield and click submit
+browser->server: text submitted by user
+note over browser:
+update new data to the list
+end note
+
+note over server:
+add new data to database
+end note
+
